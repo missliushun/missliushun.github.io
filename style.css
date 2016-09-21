@@ -1,0 +1,148 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+ul li {
+    list-style-type: none;
+}
+img {
+    list-style-type: top;
+}
+.box {
+    height: 3000px;
+    width: 100%;
+    background:url("images/top_03.jpg");
+}
+.box img {
+    float: left;
+}
+.body-txt {
+    width: 1438px;
+    margin: 0 auto;
+}
+.body {
+    width: 950px;
+    margin: 0 auto;
+}
+.body-right {
+    float: right;
+}
+#body-img {
+    width: 311px;
+    height: 537px;
+    opacity: 0;
+}
+#body-img01 {
+    position: relative;
+    top: -3px;
+}
+#body-img02 {
+    width: 315px;
+    height: 537px;
+    position:absolute;
+    top: 1095px;
+    left: 950px;
+    background: url("images/body10_03.jpg") no-repeat;
+}
+#body-img03 {
+    position: absolute;
+    top: 0;
+    right: 71px;
+}
+.body-txt01 ul {
+    position: absolute;
+    top: 124px;
+    left: 375px;
+}
+.body-txt01 ul li {
+    float: left;
+    margin-right: 18px;
+    font-size: 14px;
+}
+.body-txt01 ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+.body-txt01 ul li span {
+    color: #e7d438;
+}
+.body-loga a {
+    display: inline-block;
+    width: 105px;
+    height: 40px;
+    background: #cccccc;
+    position: absolute;
+    top: 47px;
+    left: 881px;
+    opacity: 0;
+}
+.posetion01 a {
+    position: absolute;
+    top: 47px;
+    left: 1015px;
+    opacity: 0;
+}
+.posetion02 a {
+    position: absolute;
+    top: 47px;
+    left: 1140px;
+    opacity: 0;
+}
+.posetion03 a {
+    position: absolute;
+    top: 165px;
+    left: 1032px;
+    opacity: 0;
+}
+.posetion04 a {
+    position: absolute;
+    top: 150px;
+    left: 1155px;
+    opacity: 0;
+}
+.posetion05 a {
+    position: absolute;
+    top: 130px;
+    left: 1182px;
+    height: 20px;
+    width: 80px;
+    opacity: 0;
+}
+.posetion06 a {
+    position: absolute;
+    top: 930px;
+    left: 490px;
+    height: 33px;
+    width: 100px;
+    opacity: 0;
+}
+.posetion07 a {
+    position: absolute;
+    top: 1012px;
+    left: 815px;
+    height: 33px;
+    width: 100px;
+    opacity: 0;
+}
+.posetion08 a {
+     position: absolute;
+     top: 930px;
+     left: 1130px;
+     height: 33px;
+     width: 100px;
+     opacity: 0;
+ }
+.posetion09 a {
+    position: absolute;
+    top: 1330px;
+    left: 830px;
+    height: 180px;
+    width: 350px;
+    opacity: 0;
+}
+#body-li a {
+    letter-spacing: 10px;
+    position: relative;
+    left: 10px;
+    font-size: 14px;
+}
